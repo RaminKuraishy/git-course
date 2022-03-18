@@ -1,0 +1,155 @@
+.name{
+    font-size: 30px;
+    font-weight: 900;
+    padding: 10px 0px 0px 300px;
+
+
+}
+
+.position{
+font-size: 22px;
+font-weight: 100;
+padding: 0px 0px 0px 300px;
+color: grey;
+
+}
+
+.email{
+    font-size: 22px;
+    font-weight: 100;
+    padding: 0px 0px 0px 300px;
+    text-decoration: underline;
+    color: grey;
+}
+
+.phone{
+    font-size: 22px;
+    font-weight: 100;
+    padding: 0px 0px 0px 300px;
+    text-decoration: underline;
+    color: grey;
+}
+
+.location{
+    font-size: 22px;
+    font-weight: 100;
+    padding: 0px 0px 0px 300px;
+    text-decoration: underline;
+    color: grey;
+}
+
+.image{
+    width: 250px;
+    position: absolute;
+    left: 25px;
+    top: 25px;
+}
+
+.descrition{
+    color: grey;
+    padding: 80px 0px 0px 60px;
+    font-size: 30px;
+}
+
+.myself{
+    position: absolute;
+    left: 310px;
+    top: 425px;
+    font-size: 17px;
+}
+
+span{font-weight: 900;}
+
+.firstjob{
+    position: absolute;
+    left: 310px;
+    top: 508px;
+    font-size: 17px;
+}
+
+.responsibilities{
+    position: absolute;
+    left: 310px;
+    top: 540px;
+    font-size: 17px;
+}
+
+.list{
+    position: absolute;
+    left: 290px;
+    top: 570px;
+    font-size: 17px;
+}
+
+.bold{
+    position: absolute;
+    left: 310px;
+    top: 600px;
+    font-size: 17px; 
+}
+
+.list1{
+    position: absolute;
+    left: 290px;
+    top: 630px;
+    font-size: 17px;
+}
+
+.company{
+    position: absolute;
+    left: 310px;
+    top: 680px;
+    font-size: 17px;
+}
+.responsibilities2{
+    left: 310px;
+    top: 710px;
+    font-size: 17px;
+    position: absolute;
+}
+
+.list2{
+    left: 290px;
+    top: 740px;
+    font-size: 17px;
+    position: absolute;
+}
+.achievements{
+    left: 310px;
+    top: 830px;
+    font-size: 17px;
+    position: absolute;
+}
+
+.list3{
+    left: 290px;
+    top: 860px;
+    font-size: 17px;
+    position: absolute; 
+}
+.descrition2{
+    color: grey;
+    padding: 398px 0px 0px 60px;
+    font-size: 30px;
+}
+
+.study{
+    left: 310px;
+    top: 960px;
+    font-size: 17px;
+    position: absolute; 
+}
+
+.list4{
+    left: 290px;
+    top: 990px;
+    font-size: 17px;
+    position: absolute; 
+   padding-bottom: 100px;
+}
+
+.descrition55{
+    color: grey;
+    padding: 25px 0px 0px 60px;
+    font-size: 30px;
+}
